@@ -1,5 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
+## About musicgo
+ Musicgo is a free website built using laravel framework which is used to save and edit the playlists of your favorite songs and videos from various sites such as youtube, Spotify, Wynk, Saavn etc.
 
 
 ## About Laravel
